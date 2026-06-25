@@ -7,10 +7,10 @@
   
   <h3>✨ Coding in Pink. Dreaming in Cyber. ✨</h3>
   
-  <p><i>A digital alchemist weaving logic and aesthetics into the web.</i></p>
+  <p><i>A digital alchemist weaving logic, aesthetics, and daily musings into the web.</i></p>
 
   <br>
-  <img src="[http://googleusercontent.com/image_collection/image_retrieval/4120674320031349767](https://www.newgrounds.com/art/view/gshigeru/his-room)" width="500" />
+  <img src="https://tenor.com/bQlsK.gif" width="500" alt="Anime Coding Journal" />
   <br>
   <br>
 </div>
@@ -29,14 +29,14 @@
 
 ---
 
-## 🎧 Resonating Beats (Now Syncing)
+## 🎧 Daily Music Journal (Now Vibing)
 
 <div align="center">
   <a href="https://soundcloud.com/ar0umian/sets/alone/s-E40FFCFDw70?si=5f65a821f1e74436a346648e20ecb6f1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">
-    <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
+    <img src="https://img.shields.io/badge/🎧_SoundCloud_Journal-Alone-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud Playlist" />
   </a>
   <br>
-  <em>“Listening to 'Alone' while the world disappears... 🎵🌌”</em>
+  <em>“صفحة من مذكراتي.. أستمع إلى قائمة 'Alone' بينما يختفي العالم 🎵🌌”</em>
 </div>
 
 ---
@@ -44,18 +44,18 @@
 ## 📖 Current Archives (Active Learning)
 
 * 🌀 **Exploring:** Advanced Machine Learning & AI Architectures.
-* 📚 **Deciphering:** Crafting seamless User Experiences through clean code.
-* ☕ **Status:** Powered by caffeine, driven by curiosity.
+* 📚 **Deciphering:** Crafting seamless User Experiences through clean, aesthetic code.
+* ☕ **Status:** Powered by caffeine, journaling my daily progress.
 
 ---
 
-## 📸 Through the Lens (Photography Codex)
+## 📸 Visual Journal (Through the Lens)
 
-Capturing the geometry of the real world between lines of code.
+*لقطات من عدستي.. مساحة توثق الفوضى والجمال في العالم الواقعي 🎞️*
 
 <div align="center">
   <a href="https://www.instagram.com/ar0umian/" target="_blank">
-    <img src="http://googleusercontent.com/image_collection/image_retrieval/3820005135965993993" width="400" alt="Capture 1" style="border-radius: 15px; border: 2px solid #ff7eb9;" />
+    <img src="https://img.shields.io/badge/📸_Visit_My_Visual_Journal-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="350" alt="Instagram Journal" />
   </a>
 </div>
 
