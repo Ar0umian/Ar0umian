@@ -10,7 +10,7 @@
   <p><i>A digital alchemist weaving logic, aesthetics, and daily musings into the web.</i></p>
 
   <br>
-  <img src="https://tenor.com/bQlsK.gif" width="500" alt="Anime Coding Journal" />
+  <img src="https://art.ngfiles.com/images/3004000/3004257_gshigeru_his-room.gif?f1674479047" width="500" alt="Anime Coding Journal" />
   <br>
   <br>
 </div>
@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/🎧_SoundCloud_Journal-Alone-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud Playlist" />
   </a>
   <br>
-  <em>“صفحة من مذكراتي.. أستمع إلى قائمة 'Alone' بينما يختفي العالم 🎵🌌”</em>
+  <em>“Listening to 'Alone' while the world disappears... 🎵🌌”</em>
 </div>
 
 ---
@@ -51,7 +51,7 @@
 
 ## 📸 Visual Journal (Through the Lens)
 
-*لقطات من عدستي.. مساحة توثق الفوضى والجمال في العالم الواقعي 🎞️*
+*Capturing the geometry of the real world between lines of code.🎞️*
 
 <div align="center">
   <a href="https://www.instagram.com/ar0umian/" target="_blank">
