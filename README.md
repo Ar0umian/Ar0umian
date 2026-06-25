@@ -1,71 +1,93 @@
-<h1 align="center">👋 مرحباً بك!</h1>
+<div align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Ar0umian&label=System_Sync&color=ff7eb9&style=flat-square&logo=github&logoColor=white" alt="Profile Views" />
+  <br>
+  
+  # <img src="https://img.shields.io/badge/Accessing%20Sanctuary-Ar0umian-ff7eb9?style=for-the-badge&logo=codeforces&logoColor=white" />
+  
+  <h3>✨ Coding in Pink. Dreaming in Cyber. ✨</h3>
+  
+  <p><i>A digital alchemist weaving logic and aesthetics into the web.</i></p>
 
-<h3 align="center">مطور شغوف بابتكار حلول برمجية وتصميم تجارب مستخدم مميزة 💻</h3>
+  <br>
+  <img src="http://googleusercontent.com/image_collection/image_retrieval/4120674320031349767" width="500" />
+  <br>
+  <br>
+</div>
 
-<br>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ar0umian&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="عدد الزيارات" />
-</p>
+## 🌸 The Tech Arsenal (My Skills)
 
-<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI_Design-ff7eb9?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
 
-## 🛠️ التقنيات والمهارات
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+## 🎧 Resonating Beats (Now Syncing)
 
-<br>
-
-## 🎧 أستمع الآن (في الأذن)
-<p align="center">
-  <a href="رابط_حسابك_أو_قائمتك_على_سبوتيفاي">
-    <img src="https://img.shields.io/badge/Now%20Listening-1ED760?style=for-the-badge&logo=spotify&logoColor=black" alt="Spotify" />
+<div align="center">
+  <a href="https://soundcloud.com/ar0umian/sets/alone/s-E40FFCFDw70?si=5f65a821f1e74436a346648e20ecb6f1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">
+    <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
   </a>
   <br>
-  <i>"أكتب سطراً برمجياً، وأعزف لحناً.. 🎵"</i>
-</p>
+  <em>“Listening to 'Alone' while the world disappears... 🎵🌌”</em>
+</div>
 
-<br>
+---
 
-## 📖 أتعلم حالياً
-* 🚀 **أستكشف:** تقنية/مكتبة جديدة (مثال: Next.js أو الذكاء الاصطناعي).
-* 📚 **أقرأ كتاب:** كتاب تقني يطور من مهاراتي المعمارية في البرمجة.
+## 📖 Current Archives (Active Learning)
 
-<br>
+* 🌀 **Exploring:** Advanced Machine Learning & AI Architectures.
+* 📚 **Deciphering:** Crafting seamless User Experiences through clean code.
+* ☕ **Status:** Powered by caffeine, driven by curiosity.
 
-## ☕ ركن القهوة والفكاهة
-> *"خلف كل كود ناجح، أكواب لا تحصى من القهوة، وبعض البگات العنيدة!"* 💻☕
->
-> **أطرف Bug واجهته حتى الآن:** > *"قضيت 5 ساعات أبحث عن خطأ في الكود، لأكتشف في النهاية أنني نسيت فاصلة منقوطة (Semicolon) أو قوساً صغيراً! 🤦‍♂️"*
+---
 
-<br>
+## 📸 Through the Lens (Photography Codex)
 
-## 📊 إحصائيات GitHub
+Capturing the geometry of the real world between lines of code.
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Ar0umian&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="إحصائيات Ar0umian" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar0umian&theme=radical&layout=compact&langs_count=6" alt="اللغات الأكثر استخداماً لـ Ar0umian" />
+  <a href="https://www.instagram.com/ar0umian/" target="_blank">
+    <img src="http://googleusercontent.com/image_collection/image_retrieval/3820005135965993993" width="400" alt="Capture 1" style="border-radius: 15px; border: 2px solid #ff7eb9;" />
+  </a>
+</div>
+
+---
+
+## 📊 The Core Metrics (Github Stats)
+
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Ar0umian&theme=radical&show_icons=true&hide_border=false&count_private=true&text_color=ff7eb9&icon_color=00ffff&title_color=ff7eb9" alt="Ar0umian Stats" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar0umian&theme=radical&layout=compact&langs_count=6&text_color=ff7eb9&title_color=ff7eb9" alt="Ar0umian Languages" />
 </div>
 
 <br>
 
-## 📈 نشاطي الأسبوعي
+## 📈 Activity Log
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ar0umian&theme=react-dark&area=true" alt="رسم بياني لنشاط Ar0umian" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ar0umian&theme=neon-palmtree&area=true" alt="Ar0umian Activity" />
 </div>
 
-<br>
+---
 
-## 📬 تواصل معي
+## 📬 Open Channel (Connect)
 
-<p align="center">
-  <a href="رابط_لينكد_إن_الخاص_بك" target="_blank">
+<div align="center">
+  <a href="https://www.linkedin.com/in/ar0umian/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
+  <a href="https://www.instagram.com/ar0umian/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:aram.jahdali@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
