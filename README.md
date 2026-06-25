@@ -41,6 +41,19 @@
 
 ---
 
+## 🚀 Featured Projects & Portfolio (My Work)
+
+<div align="center">
+  <a href="https://github.com/Ar0umian/Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/💼_Featured_Portfolio-Explore_My_Work-ff7eb9?style=for-the-badge" alt="Portfolio Showcase" />
+  </a>
+  <a href="https://github.com/Ar0umian?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/💻_Code_Repositories-All_Repos-00ffff?style=for-the-badge&logoColor=black" alt="All Repositories" />
+  </a>
+</div>
+
+---
+
 ## 📖 Current Archives (Active Learning)
 
 * 🌀 **Exploring:** Advanced Machine Learning & AI Architectures.
