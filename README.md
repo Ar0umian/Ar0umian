@@ -10,7 +10,7 @@
   <p><i>A digital alchemist weaving logic and aesthetics into the web.</i></p>
 
   <br>
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/4120674320031349767" width="500" />
+  <img src="[http://googleusercontent.com/image_collection/image_retrieval/4120674320031349767](https://www.newgrounds.com/art/view/gshigeru/his-room)" width="500" />
   <br>
   <br>
 </div>
